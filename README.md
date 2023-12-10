@@ -12,7 +12,7 @@ This website wil be template for web social for otakus. It will consist of Homep
   <tr>
     <!-- Each cell in the table represents an image -->
     <td>
-      <h3>Honme</h3>
+      <h3>Home</h3>
       <img src="https://github.com/WinRafaelx/AnimeSocialHub/assets/120245459/9002b316-e92c-4dc1-978c-07623266cb73" alt="Image 1"></td>
     <td>
       <h3>Chat Page</h3>
